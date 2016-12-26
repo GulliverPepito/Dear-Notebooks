@@ -1,2 +1,5 @@
 # Dear-Notebooks
-Some of the notebooks (.ipynb files) I've written
+
+Notebooks I've written. Some of them are old, and some include new ideas.
+
+
