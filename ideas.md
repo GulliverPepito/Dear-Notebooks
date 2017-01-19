@@ -8,3 +8,4 @@
 * Twitter API [[1]](https://dev.twitter.com/rest/public)
 * Trello API. Useful for managing projects [[1]](https://developers.trello.com/)
 * Todoist API. Could be useful to create a Telegram bot for notifications and reminders [[1]](https://developer.todoist.com/#api-overview)
+* [More algorithms](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
